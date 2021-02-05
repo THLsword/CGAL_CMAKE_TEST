@@ -1,5 +1,0 @@
-D:/CGAL-study/CGAL_CMAKE_TEST/build/CMakeFiles/TEST.dir
-D:/CGAL-study/CGAL_CMAKE_TEST/build/CMakeFiles/PACKAGE.dir
-D:/CGAL-study/CGAL_CMAKE_TEST/build/CMakeFiles/RUN_TESTS.dir
-D:/CGAL-study/CGAL_CMAKE_TEST/build/CMakeFiles/ALL_BUILD.dir
-D:/CGAL-study/CGAL_CMAKE_TEST/build/CMakeFiles/ZERO_CHECK.dir
