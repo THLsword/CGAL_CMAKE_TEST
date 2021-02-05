@@ -28,7 +28,6 @@ int main(int argc, char* argv[])
   std::cout << "Source vertex at: " << source->point() << std::endl;
   for(vertex_descriptor vd : vertices(tm)){
     std::cout << vd->point() << "  is at distance " << vertex_distance[vd] << std::endl;
-    
   }
   return 0;
 }
